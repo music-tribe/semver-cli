@@ -1,9 +1,6 @@
 semver-cli
 ==========
 
-[![Build Status](https://travis-ci.org/davidrjonas/semver-cli.svg?branch=master)](https://travis-ci.org/davidrjonas/semver-cli)
-[![Go Report Card](https://goreportcard.com/badge/github.com/davidrjonas/semver-cli)](https://goreportcard.com/report/github.com/davidrjonas/semver-cli)
-
 semver-cli is a simple command line tool to compare and manipulate version strings.
 
 It is basically a cli wrapper around the excellent [Masterminds semver library](https://github.com/Masterminds/semver), with lots of help from the also excellent [Kingpin](https://github.com/alecthomas/kingpin)
