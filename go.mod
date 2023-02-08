@@ -1,4 +1,4 @@
-module github.com/herbievorious/semver-cli
+module github.com/music-tribe/semver-cli
 
 go 1.14
 
